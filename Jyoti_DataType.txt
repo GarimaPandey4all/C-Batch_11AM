@@ -1,0 +1,32 @@
+1 byte = 8 bits
+
+binary= 2 = 0 or 1
+
+int : signed and unsigned: signed= +ve and -ve
+	: unsigned = +ve
+	: 2 bytes
+	: short - 2 bytes
+	: int - 2 or 4 bytes
+	: long - 4 bytes
+
+short - 2 bytes = 16 bits
+
+2 ^ 16: 65536
+
+Unsigned: 0 to 65535
+
+Signed: 65536/2 = 32768 = -ve or +ve = -1 to -32768 and
+0 to 32767
+
+
+
+
+char: 
+
+float
+
+double
+
+signed int a = 10;
+
+unsigned int b = 20;

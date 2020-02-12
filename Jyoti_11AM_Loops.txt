@@ -1,0 +1,18 @@
+for(initialization; condition; increment/decrement){
+
+
+
+}
+
+initialization;
+while(condition)
+{
+
+increment/decrement;
+}
+
+initialization;
+do{
+
+increment/decrement
+}while(condition);

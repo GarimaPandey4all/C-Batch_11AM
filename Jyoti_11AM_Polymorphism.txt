@@ -1,0 +1,14 @@
+Polymorphism: poly:many, morphism:forms
+
+Polymorphism: 
+Runtime Polymorphism, Compile time Polymorphism
+
+Function Overloading, Operator Overloading
+
+Factorial:
+
+5!= 5 * 4 * 3 * 2 * 1= 120
+
+3!= 3 * 2 * 1= 6
+
+2!= 2 * 1= 2

@@ -1,0 +1,15 @@
+Polymorphism:
+
+poly:Many
+morphism:forms
+
+Person: -passenger, daughter/son, sister
+
+Compile time /static/memory allocation at compile time
+Runtime /Dynamic/ memory allocation at runtime 
+
+compile time: Function and Operator overloading
+late binding/compile time binding
+
+runtime: virtual functions/Overriding 
+Early binding/runtime binding

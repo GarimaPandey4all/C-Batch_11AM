@@ -1,0 +1,20 @@
+Fibonacci Series
+
+0 1 1 2 3 5
+
+palindrome number:
+
+121= 121
+134 = 431
+212 = 212
+5225= 5225
+
+reverse number:
+
+143= 341
+542= 245
+
+sum of digits:
+
+123= 6
+456= 15

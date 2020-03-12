@@ -1,0 +1,39 @@
+			
+			
+			
+		  1-n+1
+			*
+		   ***
+		  *****
+		 *******
+		*********
+		
+		n=3, C=5, 2n-1
+		i=rows=5
+		j=columns=9
+		
+		3 rows 5 Columns
+		4 rows 7 Columns
+		5 rows 9 Columns
+		
+		
+		
+Pointers:
+
+
+int b=10; //regular/normal Variable
+
+int *a; //Indirection operator/reference operator
+pointer variable/Address variable
+
+int *a = &b; //&--> address of operator
+
+int *a; //declaration
+
+a = &b; //initialization
+
+a-->address of b-->value of b
+
+a= output value(address)
+
+*a= output value / actual value

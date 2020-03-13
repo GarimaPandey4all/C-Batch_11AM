@@ -1,0 +1,22 @@
+
+int item= 10;
+
+int *item= &value;
+
+*pnumber -= i;
+
+i -= *pnumber;
+
+num2 += *pnum; //num2 = num2 + *pnum;
+
+const long value = 999L;
+
+error//value = 1000L;
+
+const long *pvalue = &value; //actual value constant
+
+long *const pvalue = &value; //pointer constant
+//address constant
+
+const long *const pvalue= &value;
+

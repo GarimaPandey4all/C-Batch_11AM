@@ -1,0 +1,5 @@
+Template: Generic Programming achieve
+
+1. Function Template/Generic Function
+2. Class Template/Generic Class
+

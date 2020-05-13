@@ -1,0 +1,126 @@
+STL: Standard Template Library
+
+Generic Programming->for different data types
+
+STL: It is a powerful set of C++ template classes.
+
+It has three well-structured components:
+
+1. Containers
+
+2. Algorithms
+
+3. Iterators
+
+
+Containers:
+
+-Containers are used to manage collections of objects of a certain kind.
+
+-container library in STL provide containers that are used to create data structures like arrays, linked list, trees etc.
+
+-These containers are generic they can hold elements of any data types.
+
+Example:
+
+vector: vector can be used creating dynamic arrays of char , integer, float and other types.
+
+Algorithms:
+
+-Algortihms act on containers. They provide the means by which you will perform initialization, sorting, searching. and transforming of the contents of containers.
+
+-Algorithms libraray containes built in functions that performs complex algorithms on the data structure.
+
+Iterators: Repetition
+
+-Iterators are used to step through the elements of collections of objects. These collections may be containers or subsets of containers.
+
+-Iterators in STL are used to point to the containers.
+
+-Iterators actually acts as a bridge b/w containers and algorithms.
+
+STL Containers:
+
+-container library is a collection of classes.
+
+-The containers are implemented as generic class templates.
+
+-containers help us to implement and replicate simple and complex data structures very easily like arrays, linked list, trees, associative arrays and many more.
+
+-contianers can be used to hold different kind of objects
+
+Stack S1;
+
+S1.puch(10);
+S1.pop();
+
+->Common Containers:
+
+vector: replicate arrays
+queue: replicate queues
+stack: replicate stack
+priority Queue: replicate heaps
+list : replicate linked list
+set: trees
+map: associative arrays
+
+->classification of Containers:
+
+-sequence container
+like array, linked list, queue, etc
+
+-Associative Containers:
+sorted data structures like map, set etc
+
+-unsorted associative containers:
+unsorted data structures
+
+-contianers adapters:
+Interfaces to sequence containers
+
+->How to use containers library?
+
+1. header file
+#include<list>
+
+2. main()
+list <int> mylist;
+
+
+-->Array in STL:
+
+-Array is a linear collection of similar elements.
+
+-Array container in STL provides us the implementation od static array.
+
+-Use header array: #include<array>
+
+-array <int, 10> obj;
+
+-array <object_type, array_size> array_name;
+
+-array <int , 5> obj = {2, 4, 5, 8, 0};
+
+#Member Functions: Array Template class
+
+-at
+
+This method returns value in the array at given range.
+
+If the given range is greater than the array size, out of range exceptions is thrown.
+
+-[] operator
+
+-front(): First element of an array
+
+-back(): Last element of an array
+
+-fill(): This method assigh the given value to every element of an array.
+
+-swap(): two arrays swap but when both array are of same type and same size.
+
+-size()
+
+-begin(): This method returns the iterator pointing to the first element of the array.
+
+-end(): This method returs the iteratir pointing to the last element of the array.
